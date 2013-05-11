@@ -1,0 +1,6 @@
+# specific doc files for beingmaster or work laptop
+echo `hostname` : 
+if [[ -a $ZSH/local/`hostname`.localrc ]]
+then
+   source $ZSH/local/`hostname`.localrc
+fi
