@@ -16,3 +16,9 @@ h [tab]
 ```sh
 extact [file]
 ```
+
+### launch the iOS simulator
+
+```sh
+ios
+```
