@@ -2,5 +2,5 @@
 
 ### Change to zsh
       http://osxdaily.com/2012/03/21/change-shell-mac-os-x/
-### aaded localrc.symlink and the local directory to allow for machine specific
+### aded localrc.symlink and the local directory to allow for machine specific
 
