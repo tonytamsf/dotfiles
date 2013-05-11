@@ -1,2 +1,4 @@
 echo "Tony's work mac"
+
+# This is referenced in zsh/zsh.symlink
 export PROJECTS=~/Dropbox/Developer/git/
