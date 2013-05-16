@@ -2,3 +2,7 @@ echo "Tony's work mac"
 
 # This is referenced in zsh/zsh.symlink
 export PROJECTS=~/Dropbox/Developer/git/
+
+SSH_AUTH_SOCK=/tmp/ssh-xyvrQJl7HF/agent.817; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=818; export SSH_AGENT_PID;
+
