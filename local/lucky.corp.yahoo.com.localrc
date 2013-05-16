@@ -1,0 +1,6 @@
+echo "Tony's Linux desktop"
+
+# This is referenced in zsh/zsh.symlink
+export PROJECTS=~/git
+alias legocdtools='cd ~/lego_fe/common/devtools/lego_dev_util/bin'
+alias legocdimages='cd ~/lego_fe/common/build/assembly/lego_core/release_definition/resources'
