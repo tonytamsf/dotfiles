@@ -6,3 +6,20 @@ export PROJECTS=~/Dropbox/Developer/git/
 SSH_AUTH_SOCK=/tmp/ssh-xyvrQJl7HF/agent.817; export SSH_AUTH_SOCK;
 SSH_AGENT_PID=818; export SSH_AGENT_PID;
 
+
+# Dev
+alias yubcd='cd ~/yahoo-dev/yub/trunk/yjava_yub'
+# Lego
+alias legocdycb='cd ~/lego_fe/common/conf/dimensions/var/ycb'
+alias legocdyub='cd ~/lego_fe/common/projects/common_yub/var/yub'
+alias legocdadmin='cd ~/lego_admin/SVNROOT/yahoo/media/common'
+alias legocdtools='cd ~/lego_fe/common/devtools/lego_dev_util/bin'
+alias legocdmod='cd ~/lego_fe/common/modules'
+alias legocdstatefe='cd ~/lego_fe/common/build/assembly/lego_core/release_definition/resources/fe/image'
+
+# Bug Reporter
+alias lcdbugreporter='cd ~/src/bugreporter/bugreporter/trunk/'
+alias docbugreporter='echo http://twiki.corp.yahoo.com/view/Main/YahooBugReporter'
+
+#
+alias proxy='ssh -l 2222:lucky.corp.yahoo.com:22 -L 1080:socks.corp.yahoo.com:1080 tonytam@proxy.corp.yahoo.com'
