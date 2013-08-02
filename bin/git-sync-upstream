@@ -1,0 +1,12 @@
+#!/bin/sh
+
+# assuming you forked from a repo, and have set it as your 'upstream'
+# based on https://help.github.com/articles/syncing-a-fork
+
+git remote -v 
+git fetch upstream
+git branch -va
+git merge upstream/master
+
+echo "https://help.github.com/articles/pushing-to-a-remote"
+echo "you want to git push?"
